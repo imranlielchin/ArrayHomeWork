@@ -1,0 +1,15 @@
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\bin\Debug\net6.0\ArrayTask.exe
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\bin\Debug\net6.0\ArrayTask.deps.json
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\bin\Debug\net6.0\ArrayTask.runtimeconfig.json
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\bin\Debug\net6.0\ArrayTask.dll
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\bin\Debug\net6.0\ArrayTask.pdb
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\obj\Debug\net6.0\ArrayTask.csproj.AssemblyReference.cache
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\obj\Debug\net6.0\ArrayTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\obj\Debug\net6.0\ArrayTask.AssemblyInfoInputs.cache
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\obj\Debug\net6.0\ArrayTask.AssemblyInfo.cs
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\obj\Debug\net6.0\ArrayTask.csproj.CoreCompileInputs.cache
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\obj\Debug\net6.0\ArrayTask.dll
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\obj\Debug\net6.0\refint\ArrayTask.dll
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\obj\Debug\net6.0\ArrayTask.pdb
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\obj\Debug\net6.0\ArrayTask.genruntimeconfig.cache
+C:\Users\LENGION\Desktop\CodeAcademy\ArrayTask\ArrayTask\obj\Debug\net6.0\ref\ArrayTask.dll
